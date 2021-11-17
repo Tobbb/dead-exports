@@ -4,7 +4,7 @@
   "description": "Find unused exports in your project",
   "main": "bin/index.js",
   "bin": {
-    "test-cli-tool": "bin/index.js"
+    "dead-exports": "bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
