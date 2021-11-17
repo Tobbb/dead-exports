@@ -1,8 +1,11 @@
 {
   "name": "dead-exports",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find unused exports in your project",
-  "main": "index.js",
+  "main": "bin/index.js",
+  "bin": {
+    "test-cli-tool": "bin/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +19,9 @@
     "unused"
   ],
   "author": "Tobbb",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tobbb/dead-exports"
+  }
 }
