@@ -1,11 +1,9 @@
 {
-  "name": "dead-exports",
-  "version": "1.0.1",
+  "name": "dead-exports2",
+  "version": "1.0.3",
   "description": "Find unused exports in your project",
-  "main": "bin/index.js",
-  "bin": {
-    "dead-exports": "bin/index.js"
-  },
+  "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
