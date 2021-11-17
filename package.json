@@ -1,6 +1,6 @@
 {
-  "name": "dead-exports2",
-  "version": "1.0.4",
+  "name": "dead-exports",
+  "version": "1.0.5",
   "description": "Find unused exports in your project",
   "main": "index.js",
   "bin": "index.js",
@@ -18,7 +18,7 @@
     "unused"
   ],
   "author": "Tobbb",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/Tobbb/dead-exports"
