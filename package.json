@@ -1,9 +1,10 @@
 {
   "name": "dead-exports2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Find unused exports in your project",
   "main": "index.js",
   "bin": "index.js",
+  "homepage": "https://github.com/Tobbb/dead-exports",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
