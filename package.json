@@ -1,6 +1,6 @@
 {
   "name": "dead-exports",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Find unused exports in your project",
   "main": "src/index.js",
   "bin": "src/index.js",
